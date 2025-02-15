@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,8 @@ namespace juegoDe3_2 {
             clase10A.MostrarDetalles();
             profesor1.MostrarCursos();
             cursoMatematicas.MostrarDetalles();
+
+            Console.WriteLine("    \n  ");
         }
     }
 }
